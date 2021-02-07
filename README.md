@@ -1,2 +1,2 @@
 # belajar.php
-catatan belajar PHP
+belajar PHP
